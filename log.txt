@@ -1,0 +1,170 @@
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: View My Tweets
+Thu Apr 12 14:41:38 +0000 2018:     now...playing with the formatting!
+Thu Apr 12 14:41:25 +0000 2018:     fs is a go! working for logging and reading!
+Wed Apr 11 21:52:36 +0000 2018:     Think I've gotten the defaults added.  Now on to fs...
+Wed Apr 11 20:07:35 +0000 2018:     Spotify is good!  Now I need to add defaults if movie/song titles are not provided...
+Tue Apr 03 21:44:50 +0000 2018:     So...Spotify is a little tough.  I keep getting unauthorized user errors.  Moving on to OMDB!
+Wed Apr 11 17:17:00 +0000 2018:     Back to the homework!  Thinking about adding in inquirer...
+Tue Apr 03 19:59:51 +0000 2018:     I think I've figured out the Twitter component...now on to Spotify!
+Tue Apr 03 21:50:13 +0000 2018:     Okay...making progress with OMDB... need to fix Ratings &amp; add text if the user doesn't enter a movie title.... or e… https://t.co/SAyn7vndV6
+Tue Apr 03 18:30:02 +0000 2018:     I just started working on my liri.js app
+Fri Mar 30 02:03:31 +0000 2018:     Tweet
+Fri Mar 30 02:03:19 +0000 2018:     Tweet.......Tweet......Tweet
+Wed Apr 11 18:29:23 +0000 2018:     Got Inquirer added!  And movies are working.  Now...back to Spotify!
+Fri Mar 30 02:02:53 +0000 2018:     First ever tweet
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: Get Movie Info
+Search String: shrek
+Title: Shrek
+Year: 2001
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: Get Movie Info
+Search String: the lion king
+Title: The Lion King
+Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: Get Song Info
+Search String: the sign ace of base
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7c8209aca2c04301ad4b386f47c5409e
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: Get Movie Info
+Search String: lion
+Title: Lion
+Year: 2016
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 86%
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+----------------------------------------------
+Thursday Apr 12th 2018, 10:35 am
+Request: Get Song Info
+Search String: all about that bass
+Artist: Meghan Trainor
+Album: All About That Bass
+Track: All About That Bass
+Preview URL: https://p.scdn.co/mp3-preview/25128e3ab7e61b593d5f15ab601369bc83bd9c5e?cid=7c8209aca2c04301ad4b386f47c5409e
+----------------------------------------------
+Thursday Apr 12th 2018, 10:36 am
+Request: Get Movie Info
+Search String: mr nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------
+Thursday Apr 12th 2018, 10:36 am
+Request: Read from File
+Thu Apr 12 14:41:38 +0000 2018:     now...playing with the formatting!
+Thu Apr 12 14:41:25 +0000 2018:     fs is a go! working for logging and reading!
+Wed Apr 11 18:29:23 +0000 2018:     Got Inquirer added!  And movies are working.  Now...back to Spotify!
+Tue Apr 03 21:50:13 +0000 2018:     Okay...making progress with OMDB... need to fix Ratings &amp; add text if the user doesn't enter a movie title.... or e… https://t.co/SAyn7vndV6
+Wed Apr 11 20:07:35 +0000 2018:     Spotify is good!  Now I need to add defaults if movie/song titles are not provided...
+Tue Apr 03 21:44:50 +0000 2018:     So...Spotify is a little tough.  I keep getting unauthorized user errors.  Moving on to OMDB!
+Wed Apr 11 17:17:00 +0000 2018:     Back to the homework!  Thinking about adding in inquirer...
+Wed Apr 11 21:52:36 +0000 2018:     Think I've gotten the defaults added.  Now on to fs...
+Tue Apr 03 19:59:51 +0000 2018:     I think I've figured out the Twitter component...now on to Spotify!
+Tue Apr 03 18:30:02 +0000 2018:     I just started working on my liri.js app
+Fri Mar 30 02:03:31 +0000 2018:     Tweet
+Fri Mar 30 02:03:19 +0000 2018:     Tweet.......Tweet......Tweet
+Fri Mar 30 02:02:53 +0000 2018:     First ever tweet
+----------------------------------------------
+Thursday Apr 12th 2018, 10:37 am
+Request: View My Tweets
+Thu Apr 12 15:36:47 +0000 2018:     node.js is pretty cool
+Thu Apr 12 15:36:39 +0000 2018:     I think I'm finished with this project!
+Wed Apr 11 21:52:36 +0000 2018:     Think I've gotten the defaults added.  Now on to fs...
+Wed Apr 11 20:07:35 +0000 2018:     Spotify is good!  Now I need to add defaults if movie/song titles are not provided...
+Wed Apr 11 18:29:23 +0000 2018:     Got Inquirer added!  And movies are working.  Now...back to Spotify!
+Wed Apr 11 17:17:00 +0000 2018:     Back to the homework!  Thinking about adding in inquirer...
+Tue Apr 03 21:50:13 +0000 2018:     Okay...making progress with OMDB... need to fix Ratings &amp; add text if the user doesn't enter a movie title.... or e… https://t.co/SAyn7vndV6
+Thu Apr 12 14:41:25 +0000 2018:     fs is a go! working for logging and reading!
+Tue Apr 03 21:44:50 +0000 2018:     So...Spotify is a little tough.  I keep getting unauthorized user errors.  Moving on to OMDB!
+Thu Apr 12 14:41:38 +0000 2018:     now...playing with the formatting!
+Tue Apr 03 19:59:51 +0000 2018:     I think I've figured out the Twitter component...now on to Spotify!
+Tue Apr 03 18:30:02 +0000 2018:     I just started working on my liri.js app
+Fri Mar 30 02:03:31 +0000 2018:     Tweet
+Fri Mar 30 02:03:19 +0000 2018:     Tweet.......Tweet......Tweet
+Fri Mar 30 02:02:53 +0000 2018:     First ever tweet
+----------------------------------------------
+Thursday Apr 12th 2018, 12:17 pm
+Request: View My Tweets
+Thu Apr 12 15:36:47 +0000 2018:     node.js is pretty cool
+Thu Apr 12 15:36:39 +0000 2018:     I think I'm finished with this project!
+Wed Apr 11 21:52:36 +0000 2018:     Think I've gotten the defaults added.  Now on to fs...
+Thu Apr 12 14:41:38 +0000 2018:     now...playing with the formatting!
+Wed Apr 11 20:07:35 +0000 2018:     Spotify is good!  Now I need to add defaults if movie/song titles are not provided...
+Thu Apr 12 14:41:25 +0000 2018:     fs is a go! working for logging and reading!
+Wed Apr 11 18:29:23 +0000 2018:     Got Inquirer added!  And movies are working.  Now...back to Spotify!
+Wed Apr 11 17:17:00 +0000 2018:     Back to the homework!  Thinking about adding in inquirer...
+Tue Apr 03 21:50:13 +0000 2018:     Okay...making progress with OMDB... need to fix Ratings &amp; add text if the user doesn't enter a movie title.... or e… https://t.co/SAyn7vndV6
+Tue Apr 03 21:44:50 +0000 2018:     So...Spotify is a little tough.  I keep getting unauthorized user errors.  Moving on to OMDB!
+Tue Apr 03 19:59:51 +0000 2018:     I think I've figured out the Twitter component...now on to Spotify!
+Tue Apr 03 18:30:02 +0000 2018:     I just started working on my liri.js app
+Fri Mar 30 02:03:31 +0000 2018:     Tweet
+Fri Mar 30 02:03:19 +0000 2018:     Tweet.......Tweet......Tweet
+Fri Mar 30 02:02:53 +0000 2018:     First ever tweet
+----------------------------------------------
+Thursday Apr 12th 2018, 12:17 pm
+Request: Get Movie Info
+Search String: Ghost
+Title: Ghost
+Year: 1990
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 74%
+Country: USA
+Language: English
+Plot: After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
+Actors: Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn
+----------------------------------------------
+Thursday Apr 12th 2018, 12:17 pm
+Request: Get Song Info
+Search String: bills bills bills
+Artist: Destiny's Child
+Album: The Writing's On The Wall
+Track: Bills, Bills, Bills
+Preview URL: https://p.scdn.co/mp3-preview/5947a78d5f8dbf6cd776b9fef4aedda4c406f8ba?cid=7c8209aca2c04301ad4b386f47c5409e
+----------------------------------------------
+Thursday Apr 12th 2018, 12:18 pm
+Request: Read from File
+Thu Apr 12 15:36:47 +0000 2018:     node.js is pretty cool
+Thu Apr 12 15:36:39 +0000 2018:     I think I'm finished with this project!
+Thu Apr 12 14:41:38 +0000 2018:     now...playing with the formatting!
+Thu Apr 12 14:41:25 +0000 2018:     fs is a go! working for logging and reading!
+Wed Apr 11 21:52:36 +0000 2018:     Think I've gotten the defaults added.  Now on to fs...
+Wed Apr 11 20:07:35 +0000 2018:     Spotify is good!  Now I need to add defaults if movie/song titles are not provided...
+Wed Apr 11 18:29:23 +0000 2018:     Got Inquirer added!  And movies are working.  Now...back to Spotify!
+Wed Apr 11 17:17:00 +0000 2018:     Back to the homework!  Thinking about adding in inquirer...
+Tue Apr 03 21:44:50 +0000 2018:     So...Spotify is a little tough.  I keep getting unauthorized user errors.  Moving on to OMDB!
+Tue Apr 03 21:50:13 +0000 2018:     Okay...making progress with OMDB... need to fix Ratings &amp; add text if the user doesn't enter a movie title.... or e… https://t.co/SAyn7vndV6
+Tue Apr 03 19:59:51 +0000 2018:     I think I've figured out the Twitter component...now on to Spotify!
+Tue Apr 03 18:30:02 +0000 2018:     I just started working on my liri.js app
+Fri Mar 30 02:03:31 +0000 2018:     Tweet
+Fri Mar 30 02:03:19 +0000 2018:     Tweet.......Tweet......Tweet
+Fri Mar 30 02:02:53 +0000 2018:     First ever tweet
